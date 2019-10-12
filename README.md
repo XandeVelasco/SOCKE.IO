@@ -1,2 +1,3 @@
-# SOCKE.IO
- chat in real time with Socket.io
+# SOCKETIO
+ chat with socket.io
+chat with others user in real time
